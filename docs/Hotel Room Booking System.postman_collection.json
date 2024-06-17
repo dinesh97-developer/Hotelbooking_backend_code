@@ -195,7 +195,7 @@
 								},
 								{
 									"key": "fullName",
-									"value": "Md. Samiur Rahman Mukul",
+									"value": "Dineshkumar Chandran",
 									"description": "required",
 									"type": "text"
 								},
@@ -426,7 +426,7 @@
 							"urlencoded": [
 								{
 									"key": "fullName",
-									"value": "Md. Samiur Rahman Mukul",
+									"value": "Dineshkumar",
 									"description": "required",
 									"type": "text"
 								},
@@ -553,7 +553,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{APP_URL}}/api/v1/all-users-list?keyword=mukul&limit=5&page=1&sort=aesc",
+							"raw": "{{APP_URL}}/api/v1/all-users-list?keyword=dinesh&limit=5&page=1&sort=aesc",
 							"host": [
 								"{{APP_URL}}"
 							],
@@ -565,7 +565,7 @@
 							"query": [
 								{
 									"key": "keyword",
-									"value": "mukul"
+									"value": "dinesh"
 								},
 								{
 									"key": "limit",
